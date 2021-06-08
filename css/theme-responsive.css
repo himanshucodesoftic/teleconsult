@@ -254,9 +254,10 @@
 		margin-bottom: 0px;
 	}
 
-	header div.logo img {
-		max-width: 60px;
-	}
+	/* header div.logo img { */
+		/* max-width: 60px; */
+		/* border:2px solid red; */
+	/* } */
 
 	header.center div.logo {
 		text-align: left;
